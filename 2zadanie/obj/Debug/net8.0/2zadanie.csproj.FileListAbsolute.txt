@@ -1,0 +1,14 @@
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.AssemblyInfoInputs.cache
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.AssemblyInfo.cs
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.csproj.CoreCompileInputs.cache
+E:\lastzad\2zadanie\bin\Debug\net8.0\2zadanie.exe
+E:\lastzad\2zadanie\bin\Debug\net8.0\2zadanie.deps.json
+E:\lastzad\2zadanie\bin\Debug\net8.0\2zadanie.runtimeconfig.json
+E:\lastzad\2zadanie\bin\Debug\net8.0\2zadanie.dll
+E:\lastzad\2zadanie\bin\Debug\net8.0\2zadanie.pdb
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.dll
+E:\lastzad\2zadanie\obj\Debug\net8.0\refint\2zadanie.dll
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.pdb
+E:\lastzad\2zadanie\obj\Debug\net8.0\2zadanie.genruntimeconfig.cache
+E:\lastzad\2zadanie\obj\Debug\net8.0\ref\2zadanie.dll
